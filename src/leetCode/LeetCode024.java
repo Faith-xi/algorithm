@@ -7,7 +7,7 @@ package leetCode;
  * version：1.0
  * ClassName：LeetCode024
  * Create date： 2020/4/20 11:11
- * Description：TODO
+ * Description：TODO 链表
  * Update history：
  * ================================================
  */
