@@ -33,10 +33,10 @@ public class Test {
         BinaryTree bt = new BinaryTree(new TreeNode(0,"A"));
         bt.creatBinaryTree();
 
-        System.out.print(bt.getRoot().data);
-        System.out.print(bt.getRoot().leftChild.data);
-        System.out.print(bt.getRoot().rightChild.data);
-        System.out.print(bt.getRoot().leftChild.leftChild.data);
+//        System.out.print(bt.getRoot().data);
+//        System.out.print(bt.getRoot().leftChild.data);
+//        System.out.print(bt.getRoot().rightChild.data);
+//        System.out.print(bt.getRoot().leftChild.leftChild.data);
 //        System.out.print(bt.getRoot().leftChild.rightChild.data);
 //        System.out.print();
 //        System.out.print();
